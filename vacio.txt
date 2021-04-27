@@ -1,8 +1,19 @@
-hola estoy aprendiendo a usar git
+Hola estoy aprendiendo a usar git
 
 tengo 28 años soy de armenia y me llamo Camilo Alonso Hernandez Cediel
 
 he conozco 3 paises
 
 soy adminsitrador de empresas y estudio ingenieria de software.
+
+de momento hemos visto como funciona, y tendremos los sigueintes comandos:
+git add = sube ala ram el archivo o sus cambios, 
+git commit ingresa esos cambios al repositorio, haciendo lo que llamamos una rama o branch, este debe ir siempre comentado o comentando las modificiaciones
+osea queda mas o menos asi git commit vacio.txt -m "agrega el comentario" y asi se va al repositorio
+git status: muestra que esta pasando o que se ha hecho en ese repositorio, si existen modificaciones y si este no se a ingresado.
+git config que se usa para modificar datos y otras cosas del git, si se hace git config -- list, nos muestra todo el core del repositorio autor y demas.
+git config solo0 muestra todo l0o que se puede hacer con el git.
+git log; nos muestra toda la evolucion del archivo que estamos creando o modificando.
+git rm --cahced "el archivo": este nos sirve cuando queremos soltar un git add, para no subirlo al commit.
+git add . : sube todos los cambios en todo el repositorio
 
