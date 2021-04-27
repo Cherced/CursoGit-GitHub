@@ -17,3 +17,5 @@ git log; nos muestra toda la evolucion del archivo que estamos creando o modific
 git rm --cahced "el archivo": este nos sirve cuando queremos soltar un git add, para no subirlo al commit.
 git add . : sube todos los cambios en todo el repositorio
 
+git show "y el archivo" : nos muestra las diferencias entre nuestra version anterior y la vercion presente, ademas 
+esto se llama hacer diff, nos muestra los bytes cambiados, y todo lo que se agrega respecto con la version anterior-
