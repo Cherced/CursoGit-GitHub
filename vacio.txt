@@ -46,5 +46,12 @@ tenemos un nuevo y hermoso comando:
     nos muestra la diferencia exacta del diff entre versiones. txt
 
 
+    ahora aprendimos a hacer branchs o ramas y se hace cuando mi head esta listo 
+
+            se enuncua como git branch " nombre de la rama"
+
+            
+
+
 
 
