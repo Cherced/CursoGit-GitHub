@@ -19,3 +19,7 @@ git add . : sube todos los cambios en todo el repositorio
 
 git show "y el archivo" : nos muestra las diferencias entre nuestra version anterior y la vercion presente, ademas 
 esto se llama hacer diff, nos muestra los bytes cambiados, y todo lo que se agrega respecto con la version anterior-
+git diff "numero del head" "numero de la version a comparar"
+nos muestra todo
+
+tenemos un nuevo coamndo el checkout , ese se trae los cambios de la version que uno quiera, a la carpeta local, puede ser cualquier cambio o todos los cambiados
