@@ -15,6 +15,10 @@ git config que se usa para modificar datos y otras cosas del git, si se hace git
 git config solo0 muestra todo l0o que se puede hacer con el git.
 git log; nos muestra toda la evolucion del archivo que estamos creando o modificando.
 git rm --cahced "el archivo": este nos sirve cuando queremos soltar un git add, para no subirlo al commit.
+
+      git rm --cached: Elimina los archivos del área de Staging y del próximo commit pero los mantiene en nuestro disco duro.
+git rm --force: Elimina los archivos de Git y del disco duro. Git siempre guarda todo, por lo que podemos acceder al registro 
+de la existencia de los archivos, de modo que podremos recuperarlos si es necesario (pero debemos usar comandos más avanzados).
 git add . : sube todos los cambios en todo el repositorio
 
 git show "y el archivo" : nos muestra las diferencias entre nuestra version anterior y la vercion presente, ademas 
@@ -30,6 +34,9 @@ tenemos un nuevo coamndo el checkout , ese se trae los cambios de la version que
 ahora tenemos al git reset, el cual usa el numero del commit, para regresar a esa version
 existen dos tipos el de tipo suave y duro, en ejecucion seria hard y soft, hard nos devuelve absolutamnte todo a la verson anterior
 soft nos deja los cambios en el staying, para volver a hacer commit. 
+
+    git reset HEAD: Este es el comando para sacar archivos del área de Staging. No para borrarlos ni nada de eso, 
+    solo para que los últimos cambios de estos archivos no se envíen al último commit, a menos que cambiemos de opinión y los incluyamos de nuevo en staging con git add, por supuesto.
 
 
 tenemos un nuevo y hermoso comando:
