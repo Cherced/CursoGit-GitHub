@@ -24,6 +24,9 @@ nos muestra todo
 
 tenemos un nuevo coamndo el checkout , ese se trae los cambios de la version que uno quiera, a la carpeta local, puede ser cualquier cambio o todos los cambiados
 
+    git checkout se usa asi:
+         git checkout "el id de el commit" y el archivo del cual queremos volver.
+
 ahora tenemos al git reset, el cual usa el numero del commit, para regresar a esa version
 existen dos tipos el de tipo suave y duro, en ejecucion seria hard y soft, hard nos devuelve absolutamnte todo a la verson anterior
 soft nos deja los cambios en el staying, para volver a hacer commit. 
@@ -33,5 +36,7 @@ tenemos un nuevo y hermoso comando:
     git log --stat
 
     nos muestra la diferencia exacta del diff entre versiones. txt
-    
+
+
+
 
