@@ -23,3 +23,9 @@ git diff "numero del head" "numero de la version a comparar"
 nos muestra todo
 
 tenemos un nuevo coamndo el checkout , ese se trae los cambios de la version que uno quiera, a la carpeta local, puede ser cualquier cambio o todos los cambiados
+
+ahora tenemos al git reset, el cual usa el numero del commit, para regresar a esa version
+existen dos tipos el de tipo suave y duro, en ejecucion seria hard y soft, hard nos devuelve absolutamnte todo a la verson anterior
+soft nos deja los cambios en el staying, para volver a hacer commit. 
+
+
