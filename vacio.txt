@@ -8,6 +8,7 @@ soy adminsitrador de empresas y estudio ingenieria de software.
 
 de momento hemos visto como funciona, y tendremos los sigueintes comandos:
 git add = sube ala ram el archivo o sus cambios, 
+        ahora nos enseñan que se puede hacer el git add con el commit haciendo lo siguiente git commit -am "comentario de branch" el unico requisito es haber hecho un add al archivo que esta por subir al repositorio y a el remoto.
 git commit ingresa esos cambios al repositorio, haciendo lo que llamamos una rama o branch, este debe ir siempre comentado o comentando las modificiaciones
 osea queda mas o menos asi git commit vacio.txt -m "agrega el comentario" y asi se va al repositorio
 git status: muestra que esta pasando o que se ha hecho en ese repositorio, si existen modificaciones y si este no se a ingresado.
