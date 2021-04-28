@@ -29,3 +29,9 @@ existen dos tipos el de tipo suave y duro, en ejecucion seria hard y soft, hard 
 soft nos deja los cambios en el staying, para volver a hacer commit. 
 
 
+tenemos un nuevo y hermoso comando:
+    git log --stat
+
+    nos muestra la diferencia exacta del diff entre versiones. txt
+    
+
