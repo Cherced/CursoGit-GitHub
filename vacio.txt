@@ -55,6 +55,13 @@ tenemos un nuevo y hermoso comando:
             luego para verificar donde estamos damos git status y ahi sale.
 
 
+ahora sabemos como hacer el merge:
+
+estadno en la rama que queremos dejar como final ... citamos a merge y este setraera todo lo de la otra rama dejando un solo archivos
+
+
+
+
 
 
 
