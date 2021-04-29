@@ -66,5 +66,5 @@ estadno en la rama que queremos dejar como final ... citamos a merge y este setr
 >>>>>>> cabecera
 
 
-
+esta es otra prueba por que tambien fallo nose que pasa AHHHHHH
 
