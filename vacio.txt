@@ -68,3 +68,20 @@ estadno en la rama que queremos dejar como final ... citamos a merge y este setr
 
 esta es otra prueba por que tambien fallo nose que pasa AHHHHHH
 
+pongale pues cuidado hijuemadre!!!
+
+        ya sabemos hacer el remoto, si apaaa! es git remote add origin https://github.com/Cherced/CursoGit-GitHub.git y se fueeeeeeee
+
+        luego para verigicar que si paso usamos el comadno git remote -v para ver que tenemos ahi
+
+        sale los datos origen 
+
+        luego para enviar todo lo que tenemos en .git de nuestro repositorio, usamos  git push origin main o el nombre de la rama a enviar
+
+        bueno hay un problema, si en el remoto hay archivos como el readme, debes llevar ese readme a tu repositorio, el problema es que 
+        github entiende que no debe funcionar nuestro repositorio y su remoto por que los cimiits o las historias del log no tienen vinculos, para ello lo que debemos hacer ese
+        git pull origin main --allow-unrelated-histories...
+        y ahi señores es donde va nacer un merge entre nuestro repositorio de git y el remoto de github, me encanta esstaaaaaaa miiiiiierrrrredddaaaaa
+
+        luego de eso ya tenemos que hacer el comentario en el vim, y supongo podiamos hacerlo fuera con-m ""
+        
