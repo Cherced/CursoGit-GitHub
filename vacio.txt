@@ -51,6 +51,8 @@ tenemos un nuevo y hermoso comando:
             se enuncua como git branch " nombre de la rama"
 
             
+            nose que paso, esta es una prueba de mirar si el auto complete funciona en terminal
+            vamos a ver que pasa jajaja
 
 
 
