@@ -50,6 +50,7 @@ tenemos un nuevo y hermoso comando:
 
             se enuncua como git branch " nombre de la rama"
 
+<<<<<<< HEAD
             luego de ejecutar el branch el head va estar apuntando en el head y en branch como lo hayamos nombrado
             ahora para cambiarnos a la rama o branch, lo que hacemos es muy sencillo----- invocamos a el comando git checkout cabecera
             luego para verificar donde estamos damos git status y ahi sale.
@@ -60,8 +61,9 @@ ahora sabemos como hacer el merge:
 estadno en la rama que queremos dejar como final ... citamos a merge y este setraera todo lo de la otra rama dejando un solo archivos
 
 
-
-
+            nose que paso, esta es una prueba de mirar si el auto complete funciona en terminal
+            vamos a ver que pasa jajaja
+>>>>>>> cabecera
 
 
 
