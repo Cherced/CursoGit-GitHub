@@ -1,4 +1,4 @@
-#HyperBlog :tw-2705: :tw-267b: :tw-264a: :tw-2652: 💚
+#HyperBlog 💚
 
 el material que enocntraras aqui, es un historico de mis primeros commits, en los que aprendi de el curso.
 
